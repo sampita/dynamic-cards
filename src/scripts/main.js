@@ -1,3 +1,5 @@
+console.log("Good morning sunshine!")
+
 // Create an HTML page that contains a text area and a button labeled Create.
 
 
